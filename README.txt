@@ -1,1 +1,3 @@
- python prompts classes based on https://github.com/terkelg/prompts
+the prettiest there is.
+
+python port of https://github.com/terkelg/prompts
